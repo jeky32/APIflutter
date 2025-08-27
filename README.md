@@ -9,7 +9,7 @@
 
 ## 📸 Hasil Project  
 
-![Screenshot](assets/screenshots/project.png)  
+![Screenshot](assets/screenshoot/project.png)  
 
 
 ---
